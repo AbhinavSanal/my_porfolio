@@ -1,4 +1,4 @@
-# Abhinav Senel - Portfolio Website
+# Abhinav Senal - Portfolio Website
 
 Welcome to the repository for my personal portfolio website! This website showcases my skills, projects, and interests as an Electronics and Communication Engineering student with a passion for Robotics and Embedded Systems.
 
@@ -29,12 +29,6 @@ Here, I highlight key technical areas I am proficient in, such as:
 - **Hardware Modeling**: Modeling circuits and embedded systems using TinkerCAD and other simulation tools.
 - **Programming**: Writing efficient code in C, C++, Python, and Verilog for software and hardware integration.
 - **Graphic Design & Media Creation**: Designing engaging visuals using Photoshop, Picsart, and Canva.
-
-### 5. **Contact**
-Connect with me through:
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Instagram](https://www.instagram.com/yourusername)
 
 ## 🔧 Technologies Used
 - **HTML5/CSS3/JavaScript**
